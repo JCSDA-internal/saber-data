@@ -9,4 +9,4 @@
 
 cmake_minimum_required( VERSION 3.3.2 FATAL_ERROR )
 
-project( saber-data VERSION 1.1.0 DESCRIPTION "SABER Test Files" )
+project( saber-data VERSION 1.2.0 DESCRIPTION "SABER Test Files" )
