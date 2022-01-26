@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a9dfe10188481f6d4ce0ca0a89e7d765639fb967f107e1794150380cb22fbbe
-size 400
+Norm of stddev at 2010-01-01T12:00:00Z: 1.707e+07
+Norm of D11_1 at 2010-01-01T12:00:00Z: 9.747e+12
+Norm of D22_1 at 2010-01-01T12:00:00Z: 2.853e+13
+Norm of D33_1 at 2010-01-01T12:00:00Z: 1.292e+10
+Norm of D12_1 at 2010-01-01T12:00:00Z: 0.000e+00
+Norm of Dcoef_1 at 2010-01-01T12:00:00Z: 1.000e+00
+Norm of DLh_1 at 2010-01-01T12:00:00Z: 2.414e+06
+Norm of nicas_norm at 2010-01-01T12:00:00Z: 1.128e+00

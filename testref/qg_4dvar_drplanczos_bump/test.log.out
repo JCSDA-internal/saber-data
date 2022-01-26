@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:378a9b85588931df858df659f0678c66b6bfde5fec571d15f9b7f5fb1f2aac5a
-size 2021
+Norm of stddev: 1.707e+07
+CostJb   : Nonlinear Jb = 0.000e+00
+CostJo   : Nonlinear Jo(Stream) = 1.106e+04, nobs = 800, Jo/n = 1.383e+01, err = 4.000e+06
+CostJo   : Nonlinear Jo(Wind) = 1.357e+03, nobs = 800, Jo/n = 1.696e+00, err = 6.000e+00
+CostJo   : Nonlinear Jo(WSpeed) = 1.798e+02, nobs = 400, Jo/n = 4.496e-01, err = 1.200e+01
+CostJcDFI: Nonlinear Jc = 5.796e+01
+CostFunction: Nonlinear J = 1.266e+04
+DRPLanczosMinimizer: reduction in residual norm = 2.799e-02
+CostFunction::addIncrement: Analysis: 
+  Valid time: 2010-01-01T00:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min= -5.1981e+08, Max=  1.0275e+08, RMS=  1.9093e+08
+  Streamfunction LBC     :  Min= -4.0032e+08, Max= -0.0000e+00, RMS=  2.0632e+08
+  Potential vorticity LBC:  Min= -6.7294e-04, Max=  5.7903e-04, RMS=  4.4640e-04
+
+
+
+
+
+Norm of stddev: 1.707e+07
+CostJb   : Nonlinear Jb = 2.833e+01
+CostJo   : Nonlinear Jo(Stream) = 1.124e+03, nobs = 800, Jo/n = 1.405e+00, err = 4.000e+06
+CostJo   : Nonlinear Jo(Wind) = 5.486e+02, nobs = 800, Jo/n = 6.857e-01, err = 6.000e+00
+CostJo   : Nonlinear Jo(WSpeed) = 8.051e+01, nobs = 400, Jo/n = 2.013e-01, err = 1.200e+01
+CostJcDFI: Nonlinear Jc = 5.656e+01
+CostFunction: Nonlinear J = 1.838e+03
+DRPLanczosMinimizer: reduction in residual norm = 2.500e-01
+CostFunction::addIncrement: Analysis: 
+  Valid time: 2010-01-01T00:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min= -5.2721e+08, Max=  1.0742e+08, RMS=  1.9319e+08
+  Streamfunction LBC     :  Min= -4.0032e+08, Max= -0.0000e+00, RMS=  2.0632e+08
+  Potential vorticity LBC:  Min= -6.7294e-04, Max=  5.7903e-04, RMS=  4.4640e-04
+
+
+
+
+
+CostJb   : Nonlinear Jb = 4.5642e+01
+CostJo   : Nonlinear Jo(Stream) = 7.6907e+02, nobs = 800, Jo/n = 9.6134e-01, err = 4.0000e+06
+CostJo   : Nonlinear Jo(Wind) = 4.0427e+02, nobs = 800, Jo/n = 5.0534e-01, err = 6.0000e+00
+CostJo   : Nonlinear Jo(WSpeed) = 5.8667e+01, nobs = 400, Jo/n = 1.4667e-01, err = 1.2000e+01
+CostJcDFI: Nonlinear Jc = 6.8104e+01
+CostFunction: Nonlinear J = 1.3458e+03

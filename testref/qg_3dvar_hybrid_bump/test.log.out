@@ -1,3 +1,39 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0fb40349ef8e7ac40acf61b1885c5f724d15464fdf53be470839b66a3202cd44
-size 1697
+CostJb   : Nonlinear Jb = 0
+CostJo   : Nonlinear Jo(Stream) = 7820.89, nobs = 600, Jo/n = 13.0348, err = 4e+06
+CostJo   : Nonlinear Jo(Wind) = 1065.61, nobs = 600, Jo/n = 1.77601, err = 6
+CostJo   : Nonlinear Jo(WSpeed) = 144.328, nobs = 300, Jo/n = 0.481094, err = 12
+CostFunction: Nonlinear J = 9030.82
+DRIPCGMinimizer: reduction in residual norm = 0.159571
+CostFunction::addIncrement: Analysis: 
+  Valid time: 2010-01-01T12:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min= -4.4567e+08, Max=  1.0387e+08, RMS=  1.7717e+08
+  Streamfunction LBC     :  Min= -4.0032e+08, Max= -0.0000e+00, RMS=  2.0632e+08
+  Potential vorticity LBC:  Min= -6.7294e-04, Max=  5.7903e-04, RMS=  4.4640e-04
+
+
+
+
+
+CostJb   : Nonlinear Jb = 36.54
+CostJo   : Nonlinear Jo(Stream) = 542.3, nobs = 600, Jo/n = 0.9038, err = 4e+06
+CostJo   : Nonlinear Jo(Wind) = 275, nobs = 600, Jo/n = 0.4583, err = 6
+CostJo   : Nonlinear Jo(WSpeed) = 39.05, nobs = 300, Jo/n = 0.1302, err = 12
+CostFunction: Nonlinear J = 892.8
+DRIPCGMinimizer: reduction in residual norm = 0.559
+CostFunction::addIncrement: Analysis: 
+  Valid time: 2010-01-01T12:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min= -4.4139e+08, Max=  1.0203e+08, RMS=  1.7675e+08
+  Streamfunction LBC     :  Min= -4.0032e+08, Max= -0.0000e+00, RMS=  2.0632e+08
+  Potential vorticity LBC:  Min= -6.7294e-04, Max=  5.7903e-04, RMS=  4.4640e-04
+
+
+
+
+
+CostJb   : Nonlinear Jb = 46.25
+CostJo   : Nonlinear Jo(Stream) = 452.5, nobs = 600, Jo/n = 0.7541, err = 4e+06
+CostJo   : Nonlinear Jo(Wind) = 200.1, nobs = 600, Jo/n = 0.3335, err = 6
+CostJo   : Nonlinear Jo(WSpeed) = 31.4, nobs = 300, Jo/n = 0.1047, err = 12
+CostFunction: Nonlinear J = 730.2

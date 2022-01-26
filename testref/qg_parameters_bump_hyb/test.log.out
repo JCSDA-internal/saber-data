@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:21978706f59216d08da8de69535c4fd56d0ae33f426316ab7b4810a43b1d1223
-size 258
+Norm of loc_coef at 2010-01-01T12:00:00Z: 2.358e+38
+Norm of loc_rh at 2010-01-01T12:00:00Z: 2.358e+38
+Norm of loc_rv at 2010-01-01T12:00:00Z: 2.358e+38
+Norm of hyb_coef at 2010-01-01T12:00:00Z: 5.572e-01
+Norm of nicas_norm at 2010-01-01T12:00:00Z: 1.012e+00
