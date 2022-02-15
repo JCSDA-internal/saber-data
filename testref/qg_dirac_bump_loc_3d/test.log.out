@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd9fa93f89cb4c1538ebd996a4399eeda94451744951c74f35ce61507a974302
-size 516
+Input Dirac increment:
+  Valid time: 2010-01-01T12:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=  0.0000e+00, Max=  1.0000e+00, RMS=  2.5000e-02
+Covariance(ensemble) * Increment:
+  Valid time: 2010-01-01T12:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min= -6.1690e+13, Max=  8.7081e+13, RMS=  1.5213e+13
+Localization(ensemble) * Increment:
+  Valid time: 2010-01-01T12:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=  0.0000e+00, Max=  1.0000e+00, RMS=  3.7379e-01

@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8464f584530e887bf1b3819a47b6baf69807aa8e420aebfccb4e8c7b16c7e5c6
-size 320
+Norm of cor_rh at 2010-01-01T12:00:00Z: 1.407e+06
+Norm of cor_rv at 2010-01-01T12:00:00Z: 4.816e+03
+Norm of dirac_mom at 2010-01-01T12:00:00Z: 1.947e-01
+Norm of dirac_diag_cor at 2010-01-01T12:00:00Z: 1.139e-01
+Norm of dirac_nicas at 2010-01-01T12:00:00Z: 1.142e-01
+Norm of nicas_norm at 2010-01-01T12:00:00Z: 1.022e+00
