@@ -1,10 +1,10 @@
-Input Dirac increment: 
+Input Dirac increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
   Streamfunction         :  Min=  0.0000e+00, Max=  1.0000e+00, RMS=  2.5000e-02
 GSI dummy parameter: 3141592
-Norm of stddev: 1.707e+07
-Covariance(SABER) * Increment: 
+Norm of stddev: 1.524e+07
+Covariance(SABER) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min=  0.0000e+00, Max=  2.6244e+14, RMS=  6.5609e+12
+  Streamfunction         :  Min=  0.0000e+00, Max=  7.4116e+13, RMS=  1.8529e+12
