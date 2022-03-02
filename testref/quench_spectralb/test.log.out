@@ -1,20 +1,22 @@
 Initial increment: 
-  Valid time:1977-05-25T00:00:00Z
-Grid:
+Valid time:1977-05-25T00:00:00Z
+Quench geometry grid:
 - name: F15
 - size: 1800
 Function space:
 - type: StructuredColumns
 - size: 1800
-    guass_psi_inc: 1
+Fields:
+  gauss_psi_inc: 1
 
 Final increment: 
-  Valid time:1977-05-25T00:00:00Z
-Grid:
+Valid time:1977-05-25T00:00:00Z
+Quench geometry grid:
 - name: F15
 - size: 1800
 Function space:
 - type: StructuredColumns
 - size: 1800
-    guass_psi_inc: 2.00776e+11
+Fields:
+  gauss_psi_inc: 1.33368e+12
 
