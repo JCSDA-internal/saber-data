@@ -1,4 +1,4 @@
-Norm of loc_coef at 2010-01-01T12:00:00Z: 8.295e-01
-Norm of loc_rh at 2010-01-01T12:00:00Z: 1.142e+07
-Norm of loc_rv at 2010-01-01T12:00:00Z: 8.217e+04
-Norm of nicas_norm at 2010-01-01T12:00:00Z: 1.026e+00
+Norm of loc_coef - 1 at 2010-01-01T12:00:00Z: 8.295e-01
+Norm of loc_rh - 1 at 2010-01-01T12:00:00Z: 1.213e+07
+Norm of loc_rv - 1 at 2010-01-01T12:00:00Z: 2.541e+04
+Norm of nicas_norm - 1 at 2010-01-01T12:00:00Z: 1.028e+00

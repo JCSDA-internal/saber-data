@@ -1,7 +1,7 @@
-Norm of stddev at 2010-01-01T12:00:00Z: 1.524e+07
-Norm of cor_rh at 2010-01-01T12:00:00Z: 5.571e+06
-Norm of cor_rv at 2010-01-01T12:00:00Z: 1.821e+04
-Norm of dirac_mom at 2010-01-01T12:00:00Z: 6.184e-01
-Norm of dirac_diag_cor at 2010-01-01T12:00:00Z: 5.595e-01
-Norm of dirac_nicas at 2010-01-01T12:00:00Z: 5.913e-01
-Norm of nicas_norm at 2010-01-01T12:00:00Z: 1.008e+00
+Norm of stddev - 1 at 2010-01-01T12:00:00Z: 1.524e+07
+Norm of cor_rh - 1 at 2010-01-01T12:00:00Z: 6.203e+06
+Norm of cor_rv - 1 at 2010-01-01T12:00:00Z: 2.462e+04
+Norm of dirac_mom - 1 at 2010-01-01T12:00:00Z: 6.184e-01
+Norm of dirac_diag_cor - 1 at 2010-01-01T12:00:00Z: 6.400e-01
+Norm of dirac_nicas - 1 at 2010-01-01T12:00:00Z: 6.788e-01
+Norm of nicas_norm - 1 at 2010-01-01T12:00:00Z: 1.012e+00
