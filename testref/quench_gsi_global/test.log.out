@@ -7,7 +7,9 @@ Function space:
 - type: StructuredColumns
 - size: 1800
 Fields:
-  var: 1
+  stream_function: 1
+  velocity_potential: 0
+  air_temperature: 0
 
 Final increment: 
 Valid time:1977-05-25T00:00:00Z
@@ -18,5 +20,7 @@ Function space:
 - type: StructuredColumns
 - size: 1800
 Fields:
-  var: 1
+  stream_function: 1
+  velocity_potential: 0
+  air_temperature: 0
 
