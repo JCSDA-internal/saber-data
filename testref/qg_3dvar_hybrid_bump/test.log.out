@@ -3,11 +3,11 @@ CostJo   : Nonlinear Jo(Stream) = 4736.31, nobs = 600, Jo/n = 7.89386, err = 4e+
 CostJo   : Nonlinear Jo(Wind) = 420.39, nobs = 600, Jo/n = 0.70065, err = 6
 CostJo   : Nonlinear Jo(WSpeed) = 63.711, nobs = 300, Jo/n = 0.21237, err = 12
 CostFunction: Nonlinear J = 5220.41
-DRIPCGMinimizer: reduction in residual norm = 0.120929
+DRIPCGMinimizer: reduction in residual norm = 0.121539
 CostFunction::addIncrement: Analysis: 
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min= -4.5311e+08, Max=  1.1669e+08, RMS=  1.8998e+08
+  Streamfunction         :  Min= -4.5304e+08, Max=  1.1670e+08, RMS=  1.9000e+08
   Streamfunction LBC     :  Min= -4.1533e+08, Max= -0.0000e+00, RMS=  2.1549e+08
   Potential vorticity LBC:  Min= -5.8954e-04, Max=  6.2452e-04, RMS=  4.3206e-04
 
@@ -15,16 +15,16 @@ CostFunction::addIncrement: Analysis:
 
 
 
-CostJb   : Nonlinear Jb = 27.21
-CostJo   : Nonlinear Jo(Stream) = 429.2, nobs = 600, Jo/n = 0.7153, err = 4e+06
-CostJo   : Nonlinear Jo(Wind) = 84.85, nobs = 600, Jo/n = 0.1414, err = 6
-CostJo   : Nonlinear Jo(WSpeed) = 18.99, nobs = 300, Jo/n = 0.06329, err = 12
-CostFunction: Nonlinear J = 560.3
-DRIPCGMinimizer: reduction in residual norm = 0.4222
+CostJb   : Nonlinear Jb = 27.24
+CostJo   : Nonlinear Jo(Stream) = 429.2, nobs = 600, Jo/n = 0.7154, err = 4e+06
+CostJo   : Nonlinear Jo(Wind) = 85.47, nobs = 600, Jo/n = 0.1425, err = 6
+CostJo   : Nonlinear Jo(WSpeed) = 19.15, nobs = 300, Jo/n = 0.06383, err = 12
+CostFunction: Nonlinear J = 561.1
+DRIPCGMinimizer: reduction in residual norm = 0.4201
 CostFunction::addIncrement: Analysis: 
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min= -4.5338e+08, Max=  1.1741e+08, RMS=  1.8976e+08
+  Streamfunction         :  Min= -4.5334e+08, Max=  1.1743e+08, RMS=  1.8976e+08
   Streamfunction LBC     :  Min= -4.1533e+08, Max= -0.0000e+00, RMS=  2.1549e+08
   Potential vorticity LBC:  Min= -5.8954e-04, Max=  6.2452e-04, RMS=  4.3206e-04
 
@@ -32,8 +32,8 @@ CostFunction::addIncrement: Analysis:
 
 
 
-CostJb   : Nonlinear Jb = 34.24
+CostJb   : Nonlinear Jb = 34.33
 CostJo   : Nonlinear Jo(Stream) = 393.6, nobs = 600, Jo/n = 0.656, err = 4e+06
-CostJo   : Nonlinear Jo(Wind) = 59.31, nobs = 600, Jo/n = 0.09885, err = 6
-CostJo   : Nonlinear Jo(WSpeed) = 14.03, nobs = 300, Jo/n = 0.04678, err = 12
-CostFunction: Nonlinear J = 501.2
+CostJo   : Nonlinear Jo(Wind) = 59.37, nobs = 600, Jo/n = 0.09896, err = 6
+CostJo   : Nonlinear Jo(WSpeed) = 14.11, nobs = 300, Jo/n = 0.04704, err = 12
+CostFunction: Nonlinear J = 501.4
