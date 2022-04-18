@@ -8,10 +8,9 @@ Function space:
 - size: 1800
 Vertical levels: 
 - number: 10
-- vunit: [1,2,3,4,5,6,7,8,9,10]
+- vunit: [1.000000e+00,2.000000e+00,3.000000e+00,4.000000e+00,5.000000e+00,6.000000e+00,7.000000e+00,8.000000e+00,9.000000e+00,1.000000e+01]
 Fields:
-  var: 1
-
+  var: 1.000000e+00
 Covariance(SABER) * Increment:
 Valid time:2010-01-01T12:00:00Z
 Quench geometry grid:
@@ -22,7 +21,6 @@ Function space:
 - size: 1800
 Vertical levels: 
 - number: 10
-- vunit: [1,2,3,4,5,6,7,8,9,10]
+- vunit: [1.000000e+00,2.000000e+00,3.000000e+00,4.000000e+00,5.000000e+00,6.000000e+00,7.000000e+00,8.000000e+00,9.000000e+00,1.000000e+01]
 Fields:
-  var: 15.5522
-
+  var: 1.555223e+01
