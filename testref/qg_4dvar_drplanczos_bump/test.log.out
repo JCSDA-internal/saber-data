@@ -12,11 +12,6 @@ CostFunction::addIncrement: Analysis:
   Streamfunction         :  Min=-4.466e+08, Max=1.107e+08, RMS=1.826e+08
   Streamfunction LBC     :  Min=-4.153e+08, Max=-0.000e+00, RMS=2.155e+08
   Potential vorticity LBC:  Min=-5.895e-04, Max=6.245e-04, RMS=4.321e-04
-
-
-
-
-
 Norm of stddev: 1.524e+07
 CostJb   : Nonlinear Jb = 4.292e+01
 CostJo   : Nonlinear Jo(Stream) = 5.138e+02, nobs = 800, Jo/n = 6.423e-01, err = 4.000e+06
@@ -31,11 +26,6 @@ CostFunction::addIncrement: Analysis:
   Streamfunction         :  Min=-4.456e+08, Max=1.119e+08, RMS=1.821e+08
   Streamfunction LBC     :  Min=-4.153e+08, Max=-0.000e+00, RMS=2.155e+08
   Potential vorticity LBC:  Min=-5.895e-04, Max=6.245e-04, RMS=4.321e-04
-
-
-
-
-
 CostJb   : Nonlinear Jb = 5.484e+01
 CostJo   : Nonlinear Jo(Stream) = 2.000e+02, nobs = 800, Jo/n = 2.500e-01, err = 4.000e+06
 CostJo   : Nonlinear Jo(Wind) = 7.673e+01, nobs = 800, Jo/n = 9.592e-02, err = 6.000e+00
