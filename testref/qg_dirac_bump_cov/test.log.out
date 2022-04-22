@@ -2,8 +2,8 @@ Input Dirac increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
   Streamfunction         :  Min=0.0000000000000000e+00, Max=1.0000000000000000e+00, RMS=2.5000000000000001e-02
-Norm of stddev: 1.524e+07
+Norm of stddev: 1.5240187527417302e+07
 Covariance(SABER) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min=0.000e+00, Max=8.293e+13, RMS=1.557e+13
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=8.2927217460184578e+13, RMS=1.5570609746948014e+13

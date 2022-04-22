@@ -5,7 +5,7 @@ Input Dirac increment:
 Covariance(ensemble) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min=0.0000000000000000e+00, Max=5.2371500453578539e+13, RMS=1.3092875113394634e+12
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=5.2371500453580688e+13, RMS=1.3092875113395171e+12
 Localization(ensemble) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
