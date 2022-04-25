@@ -59,7 +59,6 @@ Original member 9 :
   Streamfunction LBC     :  Min=-4.153280e+08, Max=-0.000000e+00, RMS=2.154897e+08
   Potential vorticity LBC:  Min=-5.895387e-04, Max=6.245192e-04, RMS=4.320585e-04
 Ensemble mean: 
-
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
   Streamfunction         :  Min=-4.556573e+08, Max=1.169504e+08, RMS=1.932284e+08
