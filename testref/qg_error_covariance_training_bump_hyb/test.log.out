@@ -1,5 +1,5 @@
-Norm of loc_hyb_coef at 2010-01-01T12:00:00Z: 7.083e-01
-Norm of loc_hyb_rh at 2010-01-01T12:00:00Z: 1.159e+07
-Norm of loc_hyb_rv at 2010-01-01T12:00:00Z: 1.184e+05
-Norm of sta_hyb_coef at 2010-01-01T12:00:00Z: 2.757e-01
-Norm of nicas_norm at 2010-01-01T12:00:00Z: 1.027e+00
+Norm of loc_hyb_coef - 1 at 2010-01-01T12:00:00Z: 7.083e-01
+Norm of loc_hyb_rh - 1 at 2010-01-01T12:00:00Z: 1.201e+07
+Norm of loc_hyb_rv - 1 at 2010-01-01T12:00:00Z: 1.900e+04
+Norm of sta_hyb_coef - 1 at 2010-01-01T12:00:00Z: 2.757e-01
+Norm of nicas_norm - 1 at 2010-01-01T12:00:00Z: 1.028e+00
