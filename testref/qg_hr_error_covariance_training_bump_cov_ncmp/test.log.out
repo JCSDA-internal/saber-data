@@ -1,14 +1,14 @@
 Number of components for q at 2010-01-01T12:00:00Z : 3
-Norm of cor_a - 1 at 2010-01-01T12:00:00Z: 3.193e-01
-Norm of cor_a - 2 at 2010-01-01T12:00:00Z: 3.408e-01
-Norm of cor_a - 3 at 2010-01-01T12:00:00Z: 3.408e-01
-Norm of cor_rh - 1 at 2010-01-01T12:00:00Z: 3.724e+06
-Norm of cor_rh - 2 at 2010-01-01T12:00:00Z: 1.239e+06
-Norm of cor_rh - 3 at 2010-01-01T12:00:00Z: 4.130e+05
-Norm of cor_rv - 1 at 2010-01-01T12:00:00Z: 4.994e+03
-Norm of cor_rv - 2 at 2010-01-01T12:00:00Z: 2.497e+03
-Norm of cor_rv - 3 at 2010-01-01T12:00:00Z: 1.249e+03
-Norm of dirac_nicas - 1 at 2010-01-01T12:00:00Z: 1.449e-01
-Norm of nicas_norm - 1 at 2010-01-01T12:00:00Z: 1.030e+00
-Norm of nicas_norm - 2 at 2010-01-01T12:00:00Z: 1.020e+00
-Norm of nicas_norm - 3 at 2010-01-01T12:00:00Z: 1.119e+00
+Norm of cor_a - 1 at 2010-01-01T12:00:00Z: 3.1926746212271812e-01
+Norm of cor_a - 2 at 2010-01-01T12:00:00Z: 3.4084196096910258e-01
+Norm of cor_a - 3 at 2010-01-01T12:00:00Z: 3.4084196096910258e-01
+Norm of cor_rh - 1 at 2010-01-01T12:00:00Z: 3.7243022537491051e+06
+Norm of cor_rh - 2 at 2010-01-01T12:00:00Z: 1.2385183740017861e+06
+Norm of cor_rh - 3 at 2010-01-01T12:00:00Z: 4.1304191800440621e+05
+Norm of cor_rv - 1 at 2010-01-01T12:00:00Z: 4.9944611484228881e+03
+Norm of cor_rv - 2 at 2010-01-01T12:00:00Z: 2.4972305742114440e+03
+Norm of cor_rv - 3 at 2010-01-01T12:00:00Z: 1.2486152871057220e+03
+Norm of dirac_nicas - 1 at 2010-01-01T12:00:00Z: 1.4488366088669910e-01
+Norm of nicas_norm - 1 at 2010-01-01T12:00:00Z: 1.0296766189995321e+00
+Norm of nicas_norm - 2 at 2010-01-01T12:00:00Z: 1.0195740194061391e+00
+Norm of nicas_norm - 3 at 2010-01-01T12:00:00Z: 1.1186652662423120e+00
