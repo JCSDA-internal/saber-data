@@ -1,5 +1,5 @@
-Norm of stddev at 2010-01-01T12:00:00Z: 1.8000000000000000e+07
-Norm of cor_rh at 2010-01-01T12:00:00Z: 6.9180922225711904e+06
-Norm of cor_rv at 2010-01-01T12:00:00Z: 3.3000000000000000e+04
-Norm of dirac_nicas at 2010-01-01T12:00:00Z: 7.1962331251683764e-01
-Norm of nicas_norm at 2010-01-01T12:00:00Z: 1.0179115508360737e+00
+Norm of stddev - 1 at 2010-01-01T12:00:00Z: 1.800e+07
+Norm of cor_rh - 1 at 2010-01-01T12:00:00Z: 6.918e+06
+Norm of cor_rv - 1 at 2010-01-01T12:00:00Z: 3.300e+04
+Norm of dirac_nicas - 1 at 2010-01-01T12:00:00Z: 7.196e-01
+Norm of nicas_norm - 1 at 2010-01-01T12:00:00Z: 1.018e+00
