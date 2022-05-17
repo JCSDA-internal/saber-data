@@ -1,32 +1,32 @@
-CostJb   : Nonlinear Jb = 0.000000e+00
-CostJo   : Nonlinear Jo(Stream) = 6.826143e+03, nobs = 800, Jo/n = 8.532678e+00, err = 4.000000e+06
-CostJo   : Nonlinear Jo(Wind) = 6.740067e+02, nobs = 800, Jo/n = 8.425084e-01, err = 6.000000e+00
-CostJo   : Nonlinear Jo(WSpeed) = 8.784803e+01, nobs = 400, Jo/n = 2.196201e-01, err = 1.200000e+01
-CostJcDFI: Nonlinear Jc = 3.769940e+01
-CostFunction: Nonlinear J = 7.625697e+03
-DRPLanczosMinimizer: reduction in residual norm = 1.589020e-02
+CostJb   : Nonlinear Jb = 0.0000000000000000e+00
+CostJo   : Nonlinear Jo(Stream) = 6.8261427699452770e+03, nobs = 800, Jo/n = 8.5326784624315959e+00, err = 4.0000000000000000e+06
+CostJo   : Nonlinear Jo(Wind) = 6.7400668811024775e+02, nobs = 800, Jo/n = 8.4250836013780972e-01, err = 6.0000000000000000e+00
+CostJo   : Nonlinear Jo(WSpeed) = 8.7848026567121394e+01, nobs = 400, Jo/n = 2.1962006641780349e-01, err = 1.2000000000000000e+01
+CostJcDFI: Nonlinear Jc = 3.7699395783537305e+01
+CostFunction: Nonlinear J = 7.6256968804061835e+03
+DRPLanczosMinimizer: reduction in residual norm = 1.5890195302994969e-02
 CostFunction::addIncrement: Analysis: 
   Valid time: 2010-01-01T00:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min=-4.499984e+08, Max=1.144281e+08, RMS=1.827225e+08
-  Streamfunction LBC     :  Min=-4.153280e+08, Max=-0.000000e+00, RMS=2.154897e+08
-  Potential vorticity LBC:  Min=-5.895387e-04, Max=6.245192e-04, RMS=4.320585e-04
-CostJb   : Nonlinear Jb = 3.662989e+01
-CostJo   : Nonlinear Jo(Stream) = 2.174302e+02, nobs = 800, Jo/n = 2.717878e-01, err = 4.000000e+06
-CostJo   : Nonlinear Jo(Wind) = 4.550137e+01, nobs = 800, Jo/n = 5.687672e-02, err = 6.000000e+00
-CostJo   : Nonlinear Jo(WSpeed) = 1.090311e+01, nobs = 400, Jo/n = 2.725777e-02, err = 1.200000e+01
-CostJcDFI: Nonlinear Jc = 3.687822e+01
-CostFunction: Nonlinear J = 3.473428e+02
-DRPLanczosMinimizer: reduction in residual norm = 6.633162e-02
+  Streamfunction         :  Min=-4.4999837283798701e+08, Max=1.1442814761331251e+08, RMS=1.8272254124736357e+08
+  Streamfunction LBC     :  Min=-4.1532799063787252e+08, Max=-0.0000000000000000e+00, RMS=2.1548970539891475e+08
+  Potential vorticity LBC:  Min=-5.8953866666476963e-04, Max=6.2451916601939216e-04, RMS=4.3205854895645297e-04
+CostJb   : Nonlinear Jb = 3.6629889403909772e+01
+CostJo   : Nonlinear Jo(Stream) = 2.1743023817584441e+02, nobs = 800, Jo/n = 2.7178779771980549e-01, err = 4.0000000000000000e+06
+CostJo   : Nonlinear Jo(Wind) = 4.5501372351161379e+01, nobs = 800, Jo/n = 5.6876715438951723e-02, err = 6.0000000000000000e+00
+CostJo   : Nonlinear Jo(WSpeed) = 1.0903107549449620e+01, nobs = 400, Jo/n = 2.7257768873624050e-02, err = 1.2000000000000000e+01
+CostJcDFI: Nonlinear Jc = 3.6878220370915436e+01
+CostFunction: Nonlinear J = 3.4734282785128056e+02
+DRPLanczosMinimizer: reduction in residual norm = 6.6331623030081166e-02
 CostFunction::addIncrement: Analysis: 
   Valid time: 2010-01-01T00:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min=-4.496230e+08, Max=1.160883e+08, RMS=1.826035e+08
-  Streamfunction LBC     :  Min=-4.153280e+08, Max=-0.000000e+00, RMS=2.154897e+08
-  Potential vorticity LBC:  Min=-5.895387e-04, Max=6.245192e-04, RMS=4.320585e-04
-CostJb   : Nonlinear Jb = 3.745920e+01
-CostJo   : Nonlinear Jo(Stream) = 3.524113e+01, nobs = 800, Jo/n = 4.405141e-02, err = 4.000000e+06
-CostJo   : Nonlinear Jo(Wind) = 1.969008e+01, nobs = 800, Jo/n = 2.461260e-02, err = 6.000000e+00
-CostJo   : Nonlinear Jo(WSpeed) = 4.430485e+00, nobs = 400, Jo/n = 1.107621e-02, err = 1.200000e+01
-CostJcDFI: Nonlinear Jc = 3.571601e+01
-CostFunction: Nonlinear J = 1.325369e+02
+  Streamfunction         :  Min=-4.4962304125214964e+08, Max=1.1608829382210667e+08, RMS=1.8260345568070528e+08
+  Streamfunction LBC     :  Min=-4.1532799063787252e+08, Max=-0.0000000000000000e+00, RMS=2.1548970539891475e+08
+  Potential vorticity LBC:  Min=-5.8953866666476963e-04, Max=6.2451916601939216e-04, RMS=4.3205854895645297e-04
+CostJb   : Nonlinear Jb = 3.7459199992230758e+01
+CostJo   : Nonlinear Jo(Stream) = 3.5241127775519722e+01, nobs = 800, Jo/n = 4.4051409719399651e-02, err = 4.0000000000000000e+06
+CostJo   : Nonlinear Jo(Wind) = 1.9690082263815345e+01, nobs = 800, Jo/n = 2.4612602829769181e-02, err = 6.0000000000000000e+00
+CostJo   : Nonlinear Jo(WSpeed) = 4.4304852083510822e+00, nobs = 400, Jo/n = 1.1076213020877705e-02, err = 1.2000000000000000e+01
+CostJcDFI: Nonlinear Jc = 3.5716012791998814e+01
+CostFunction: Nonlinear J = 1.3253690803191571e+02
