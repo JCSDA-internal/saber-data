@@ -5,15 +5,15 @@ Input Dirac increment:
 Covariance(hybrid) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min=-2.0418151395944707e+13, Max=1.2656328769625669e+14, RMS=2.3055589351050316e+13
+  Streamfunction         :  Min=-2.1178843583547348e+13, Max=1.2668606797646677e+14, RMS=2.3117633610044312e+13
 Covariance(hybrid1_ensemble) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min=-7.1197553379509609e+13, Max=8.3770775574593422e+13, RMS=1.4897993719656574e+13
+  Streamfunction         :  Min=-7.0544058187989844e+13, Max=8.3591786371138109e+13, RMS=1.5071494477200980e+13
 Localization(hybrid1_ensemble) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min=0.0000000000000000e+00, Max=1.0000000000000007e+00, RMS=3.6125365256920472e-01
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=1.0000000000000004e+00, RMS=3.6767993484320716e-01
 Covariance(hybrid2_QgError) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
