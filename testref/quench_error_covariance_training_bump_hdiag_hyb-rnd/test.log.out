@@ -1,2 +1,4 @@
-Norm of cor_rh - 1 at 2010-01-01T12:00:00Z: 1.3416407864998739e+09
-Norm of cor_rv - 1 at 2010-01-01T12:00:00Z: 1.3416407864998739e+03
+Norm of loc_rh - 1: 1.4059444550851400e+09
+Norm of loc_rv - 1: 2.2670651302851497e+03
+Norm of hyb_coef_ens - 1: 1.3909929442832504e+02
+Norm of hyb_coef_sta - 1: 1.9784391576903808e+01

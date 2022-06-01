@@ -1,5 +1,5 @@
-Number of components for q at 2010-01-01T12:00:00Z : 3
-Norm of nicas_norm - 1 at 2010-01-01T12:00:00Z: 1.0296766196897413e+00
-Norm of nicas_norm - 2 at 2010-01-01T12:00:00Z: 1.0195740198744836e+00
-Norm of nicas_norm - 3 at 2010-01-01T12:00:00Z: 1.1186652689332728e+00
-Norm of dirac_nicas - 1 at 2010-01-01T12:00:00Z: 1.4488365960970156e-01
+Number of components for q: 3
+Norm of nicas_norm - 1: 1.0296766196897396e+00
+Norm of nicas_norm - 2: 1.0195740198744825e+00
+Norm of nicas_norm - 3: 1.1186652689332659e+00
+Norm of dirac_nicas - 1: 1.4488365960971047e-01
