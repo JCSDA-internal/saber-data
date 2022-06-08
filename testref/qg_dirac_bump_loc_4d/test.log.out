@@ -20,6 +20,7 @@ Input Dirac increment:
   Valid time: 2010-01-01T06:00:00Z
   Resolution = 40, 20, 2
   Streamfunction         :  Min=0.0000000000000000e+00, Max=1.0000000000000000e+00, RMS=2.5000000000000001e-02
+No output configuration
 Covariance(ensemble) * Increment:
   Valid time: 2010-01-01T00:00:00Z
   Resolution = 40, 20, 2
@@ -42,6 +43,7 @@ Covariance(ensemble) * Increment:
   Valid time: 2010-01-01T06:00:00Z
   Resolution = 40, 20, 2
   Streamfunction         :  Min=-4.2723936572260133e+13, Max=7.1124238237216875e+13, RMS=1.2684782855665588e+13
+No output configuration
 Localization(ensemble) * Increment:
   Valid time: 2010-01-01T00:00:00Z
   Resolution = 40, 20, 2

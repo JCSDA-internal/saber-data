@@ -2,14 +2,17 @@ Input Dirac increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
   Streamfunction         :  Min=0.0000000000000000e+00, Max=1.0000000000000000e+00, RMS=2.5000000000000001e-02
+No output configuration
 Covariance(hybrid) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
   Streamfunction         :  Min=-2.9702078406196492e+13, Max=1.0812486069473928e+14, RMS=1.9366577611903539e+13
+No output configuration
 Covariance(hybrid1_ensemble) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
   Streamfunction         :  Min=-6.6973275764597438e+13, Max=8.0837505282036109e+13, RMS=1.5409053068981707e+13
+No output configuration
 Localization(hybrid1_ensemble) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
