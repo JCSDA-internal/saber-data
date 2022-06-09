@@ -1,4 +1,3 @@
-No output configuration
 CostJb   : Nonlinear Jb = 0.0000000000000000e+00
 CostJo   : Nonlinear Jo(Stream) = 4.7363131841338309e+03, nobs = 600, Jo/n = 7.8938553068897184e+00, err = 4.0000000000000000e+06
 CostJo   : Nonlinear Jo(Wind) = 4.2038989667694386e+02, nobs = 600, Jo/n = 7.0064982779490648e-01, err = 6.0000000000000000e+00
@@ -11,7 +10,6 @@ CostFunction::addIncrement: Analysis:
   Streamfunction         :  Min=-4.5303784698292178e+08, Max=1.1669590684764720e+08, RMS=1.8999950894249687e+08
   Streamfunction LBC     :  Min=-4.1532799063787252e+08, Max=-0.0000000000000000e+00, RMS=2.1548970539891475e+08
   Potential vorticity LBC:  Min=-5.8953866666476963e-04, Max=6.2451916601939216e-04, RMS=4.3205854895645275e-04
-No output configuration
 CostJb   : Nonlinear Jb = 2.7242430536856183e+01
 CostJo   : Nonlinear Jo(Stream) = 4.2923204070409088e+02, nobs = 600, Jo/n = 7.1538673450681811e-01, err = 4.0000000000000000e+06
 CostJo   : Nonlinear Jo(Wind) = 8.5470683255068082e+01, nobs = 600, Jo/n = 1.4245113875844681e-01, err = 6.0000000000000000e+00

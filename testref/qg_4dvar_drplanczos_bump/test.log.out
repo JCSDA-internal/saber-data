@@ -1,4 +1,3 @@
-No output configuration
 Norm of stddev: 1.5240187527632592e+07
 CostJb   : Nonlinear Jb = 0.0000000000000000e+00
 CostJo   : Nonlinear Jo(Stream) = 6.8261427707975026e+03, nobs = 800, Jo/n = 8.5326784634968789e+00, err = 4.0000000000000000e+06
@@ -13,7 +12,6 @@ CostFunction::addIncrement: Analysis:
   Streamfunction         :  Min=-4.4687648225040287e+08, Max=1.1200938661053398e+08, RMS=1.8259995161909693e+08
   Streamfunction LBC     :  Min=-4.1532799063787252e+08, Max=-0.0000000000000000e+00, RMS=2.1548970539891475e+08
   Potential vorticity LBC:  Min=-5.8953866666476963e-04, Max=6.2451916601939216e-04, RMS=4.3205854895645275e-04
-No output configuration
 Norm of stddev: 1.5240187527632592e+07
 CostJb   : Nonlinear Jb = 4.0497026639474008e+01
 CostJo   : Nonlinear Jo(Stream) = 5.4138166699204362e+02, nobs = 800, Jo/n = 6.7672708374005452e-01, err = 4.0000000000000000e+06
