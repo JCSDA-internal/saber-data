@@ -1,2 +1,2 @@
-Adjoint test for central block SPCTRL_COV: -9.3927215065907808e+02 / -9.3927192340970566e+02
+Adjoint test for central block SPCTRL_COV
 Inverse test for central block SPCTRL_COV: not implemented for iterative inverse
