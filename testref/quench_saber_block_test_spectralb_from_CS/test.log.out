@@ -1,0 +1,2 @@
+Adjoint test for central block SPCTRL_COV: 7.5402042444031480e+15 / 7.5402036942166670e+15
+Inverse test for central block SPCTRL_COV: not implemented for iterative inverse
