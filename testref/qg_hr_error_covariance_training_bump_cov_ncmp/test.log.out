@@ -1,14 +1,14 @@
-Number of components for q at 2010-01-01T12:00:00Z : 3
-Norm of cor_a - 1 at 2010-01-01T12:00:00Z: 3.1926746212271123e-01
-Norm of cor_a - 2 at 2010-01-01T12:00:00Z: 3.4084196096903568e-01
-Norm of cor_a - 3 at 2010-01-01T12:00:00Z: 3.4084196096903568e-01
-Norm of cor_rh - 1 at 2010-01-01T12:00:00Z: 3.7243022060498460e+06
-Norm of cor_rh - 2 at 2010-01-01T12:00:00Z: 1.2385183580710869e+06
-Norm of cor_rh - 3 at 2010-01-01T12:00:00Z: 4.1304191273676377e+05
-Norm of cor_rv - 1 at 2010-01-01T12:00:00Z: 4.9944611511196699e+03
-Norm of cor_rv - 2 at 2010-01-01T12:00:00Z: 2.4972305755598350e+03
-Norm of cor_rv - 3 at 2010-01-01T12:00:00Z: 1.2486152877799175e+03
-Norm of dirac_nicas - 1 at 2010-01-01T12:00:00Z: 1.4488365960970156e-01
-Norm of nicas_norm - 1 at 2010-01-01T12:00:00Z: 1.0296766196897413e+00
-Norm of nicas_norm - 2 at 2010-01-01T12:00:00Z: 1.0195740198744836e+00
-Norm of nicas_norm - 3 at 2010-01-01T12:00:00Z: 1.1186652689332728e+00
+Number of BUMP output components for q: 3
+Norm of BUMP output parameter cor_a - 1: 3.1926746212271123e-01
+Norm of BUMP output parameter cor_a - 2: 3.4084196096903568e-01
+Norm of BUMP output parameter cor_a - 3: 3.4084196096903568e-01
+Norm of BUMP output parameter cor_rh - 1: 3.7243022060499964e+06
+Norm of BUMP output parameter cor_rh - 2: 1.2385183580711109e+06
+Norm of BUMP output parameter cor_rh - 3: 4.1304191273677169e+05
+Norm of BUMP output parameter cor_rv - 1: 4.9944611511196708e+03
+Norm of BUMP output parameter cor_rv - 2: 2.4972305755598354e+03
+Norm of BUMP output parameter cor_rv - 3: 1.2486152877799177e+03
+Norm of BUMP output parameter dirac_nicas - 1: 1.4488365960971047e-01
+Norm of BUMP output parameter nicas_norm - 1: 1.0296766196897396e+00
+Norm of BUMP output parameter nicas_norm - 2: 1.0195740198744825e+00
+Norm of BUMP output parameter nicas_norm - 3: 1.1186652689332659e+00
