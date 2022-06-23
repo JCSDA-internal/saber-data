@@ -5,7 +5,7 @@ Input Dirac increment:
 Covariance(hybrid) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
-  Streamfunction         :  Min=-2.9702078406196492e+13, Max=1.0812486069473928e+14, RMS=1.9366577611903539e+13
+  Streamfunction         :  Min=-2.5100622010299320e+13, Max=1.8326578829954106e+14, RMS=3.4073585954483559e+13
 Covariance(hybrid1_ensemble) * Increment:
   Valid time: 2010-01-01T12:00:00Z
   Resolution = 40, 20, 2
