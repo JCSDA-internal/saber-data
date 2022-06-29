@@ -1,3 +1,66 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c83c0146eb09ee7ebeb18c48ace27c483d73866aa8ae8e2c7240c6888d2cac81
-size 3023
+Input Dirac increment:
+  Valid time: 2010-01-01T00:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T01:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T02:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T03:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T04:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T05:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T06:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+Covariance(ensemble) * Increment:
+  Valid time: 2010-01-01T00:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T01:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T02:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T03:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T04:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T05:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T06:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+Localization(ensemble) * Increment:
+  Valid time: 2010-01-01T00:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T01:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T02:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T03:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T04:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T05:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
+  Valid time: 2010-01-01T06:00:00Z
+  Resolution = 40, 20, 2
+  Streamfunction         :  Min=0.0000000000000000e+00, Max=0.0000000000000000e+00, RMS=0.0000000000000000e+00
