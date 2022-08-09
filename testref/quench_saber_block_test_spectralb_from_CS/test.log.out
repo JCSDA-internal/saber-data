@@ -1,2 +1,2 @@
-Adjoint test for central block SPCTRL_Cov
-Inverse test for central block SPCTRL_Cov: not implemented for iterative inverse
+Adjoint test for central block spectral::Covariance
+Inverse test for central block spectral::Covariance: not implemented for iterative inverse
