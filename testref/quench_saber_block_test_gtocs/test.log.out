@@ -1,0 +1,2 @@
+Adjoint test for block GTOCS: (A^t x) . (A^t x) = 1.1892023924781322e+03; x^t . (A A^t x) = 1.1892023924781320e+03
+Inverse test for non-central block GTOCS: not implemented for iterative inverse
