@@ -19,7 +19,7 @@ Quench geometry grid:
 - name: CS-LFR-15
 - size: 1350
 Partitioner:
-- type: checkerboard
+- type: cubedsphere
 Function space:
 - type: NodeColumns
 - halo: 0
