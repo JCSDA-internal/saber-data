@@ -1,2 +1,1 @@
-Adjoint test for central block BUMP_NICAS: y^t (Ax) = 1.3795006412252656e+04; x^t (Ay) = 1.3795006412252649e+04
-Inverse test for central block BUMP_NICAS: not implemented for iterative inverse
+Adjoint test for central block BUMP_NICAS passed
